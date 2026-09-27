@@ -1,0 +1,5 @@
+flask
+langgraph
+requests
+beautifulsoup4
+ddgs
